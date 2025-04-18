@@ -77,6 +77,5 @@ Each product's price is updated according to the following priority-based rules:
 
 ---
 
-## Author
 
-THRD Coding Challenge — April 2025
+
